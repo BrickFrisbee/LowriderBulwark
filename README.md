@@ -2,7 +2,7 @@
 This bot will ban any discord user who dares to queue Low Rider by WAR using pancake from a discord server. 
 
 # Bot Token
-Create your discord bot in * [the discord bot developer portal](https://discord.com/developers/docs/intro).
+Create your discord bot in [the discord bot developer portal](https://discord.com/developers/docs/intro).
 Retrieve the bot token from the Bot section in the selected bot's settings. Replace the placeholder in `bot.run()` with your token.
 
 # Execute
